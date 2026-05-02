@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-faiz-n-11706a275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhedfaiz221@gmail.com)
-[![UnivMeta](https://img.shields.io/badge/Project-UnivMeta-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://www.univmeta.xyz)
+[![UnivMeta](https://img.shields.io/badge/Project-UnivMeta-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://univmeta-xyz-backend.onrender.com/)
 
 </div>
 
@@ -63,13 +63,13 @@ Final-year BCA student at Kalasalingam Academy of Research and Education (KARE),
 
 ## Featured Projects
 
-### [UnivMeta](https://www.univmeta.xyz) — Campus ERP Platform `LIVE`
+### [UnivMeta](https://univmeta-xyz-backend.onrender.com/) — Campus ERP Platform `LIVE`
 > Full-stack academic workflow automation system for universities.
 
 - Architected and built backend APIs, relational database schema, and frontend dashboard end-to-end
 - Automates core academic operations — reducing manual overhead for institutions
 - **Tech:** JavaScript · Node.js · MySQL · HTML/CSS
-- **Live:** [univmeta.xyz](https://www.univmeta.xyz)
+- **Live:** [univmeta.xyz](https://univmeta-xyz-backend.onrender.com/)
 
 ---
 
@@ -167,7 +167,7 @@ Final-year BCA student at Kalasalingam Academy of Research and Education (KARE),
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-faiz-n-11706a275)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhedfaiz221@gmail.com)
-[![UnivMeta](https://img.shields.io/badge/View_Live_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.univmeta.xyz)
+[![UnivMeta](https://img.shields.io/badge/View_Live_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://univmeta-xyz-backend.onrender.com/)
 
 </div>
 
